@@ -1,0 +1,88 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>千度 – 关于</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in 关于 on 千度</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+	  <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>联系我们</title>
+      <link>http://localhost:1313/about/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/contact/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Hi~很高兴能在这里遇到你，我是千度，有什么我可以可以帮到你！&lt;/p&gt;
+&lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://www.x.com&#34;
+      target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-text-xl hx-pt-4 hx-px-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;在X关注我们&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx-line-clamp-3 hx-text-sm hx-font-normal hx-text-gray-500 dark:hx-text-gray-400 hx-px-4 hx-mb-4 hx-mt-2&#34;&gt;更多全新资讯、消息和服务等都可以在这里获取&lt;/div&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://discord.gg/xxxx&#34;
+      target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-text-xl hx-pt-4 hx-px-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;Discord找我们&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx-line-clamp-3 hx-text-sm hx-font-normal hx-text-gray-500 dark:hx-text-gray-400 hx-px-4 hx-mb-4 hx-mt-2&#34;&gt;更多全新资讯、消息和服务等都可以在这里获取&lt;/div&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://www.xx.com&#34;
+      target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-text-xl hx-pt-4 hx-px-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;XX地方联系我们&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx-line-clamp-3 hx-text-sm hx-font-normal hx-text-gray-500 dark:hx-text-gray-400 hx-px-4 hx-mb-4 hx-mt-2&#34;&gt;更多全新资讯、消息和服务等都可以在这里获取&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;更多联系方式&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更多联系方式&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e5%a4%9a%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;你也可以通过以下方式找到我们：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tailwindcss.com/&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener&#34;&gt;Tailwind CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://heroicons.com/&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener&#34;&gt;Heroicons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nextra.vercel.app/&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener&#34;&gt;Nextra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nextjs.org/&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener&#34;&gt;Next.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;付款方式&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;付款方式&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%bb%98%e6%ac%be%e6%96%b9%e5%bc%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;details class=&#34;last-of-type:hx-mb-0 hx-rounded-lg hx-bg-neutral-50 dark:hx-bg-neutral-800 hx-p-2 hx-mt-4 hx-group&#34; open&gt;
+  &lt;summary class=&#34;hx-flex hx-items-center hx-cursor-pointer hx-select-none hx-list-none hx-p-1 hx-rounded hx-transition-colors hover:hx-bg-gray-100 dark:hover:hx-bg-neutral-800 before:hx-mr-1 before:hx-inline-block before:hx-transition-transform before:hx-content-[&#39;&#39;] dark:before:hx-invert rtl:before:hx-rotate-180 group-open:before:hx-rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx-text-lg&#34;&gt;Details&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx-p-2 hx-overflow-hidden&#34;&gt;
+    &lt;p&gt;这是细节的内容&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;支持&lt;/strong&gt; Markdown&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>隐私协议</title>
+      <link>http://localhost:1313/about/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/privacy/</guid>
+      <description>
+        
+        
+        &lt;p&gt;这是联系我们的内容，内容请自定：
+Hextra 是一款简洁、快速、灵活的主题，适用于构建现代化静态站点。Hextra 特别适用于文档网站，但也可用于构建博客、个人网站等各种类型的网站。&lt;/p&gt;
+&lt;p&gt;Hugo 和 Jekyll 类似，是一个静态网站生成器。但与其他生成器不同，Hugo 只有单个可执行文件，这使得它可以轻松地在各种平台上安装和运行。Hugo 的运行速度非常快且可靠性高，能够在几毫秒内渲染数千页的网站。&lt;/p&gt;
+&lt;p&gt;Hextra 被设计为轻量级，具有最小化的内存占用。使用 Hextra 无需安装繁杂的依赖，比如 Node.js；相反，你只需要一个简单的 YAML 配置文件和 Markdown 内容。因此，我们可以专注于内容而非在配置环境上浪费精力。&lt;/p&gt;
+&lt;p&gt;Hextra 的设计离不开这些项目的支持和其提供的灵感：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tailwindcss.com/&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener&#34;&gt;Tailwind CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://heroicons.com/&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener&#34;&gt;Heroicons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nextra.vercel.app/&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener&#34;&gt;Nextra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nextjs.org/&#34; target=&#34;_blank&#34; rel=&#34;nofollow noopener&#34;&gt;Next.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
